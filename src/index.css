@@ -1,0 +1,36 @@
+.title {
+  font-family: 'Limelight', cursive;
+  padding: auto;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.netflix {
+  font-family: 'Bebas Neue', cursive;
+  color: red;
+  font-size: 18px;
+}
+
+.link {
+  font-family: 'PT Serif', serif;
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.movieList {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.spaceMargin {
+  margin: 5px 0;
+}
+
+.each-movie {
+  display: flex;
+  flex-direction: column;
+}
